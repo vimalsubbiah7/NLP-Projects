@@ -2,4 +2,4 @@
 Basic Natural Language processing projects
 
 
-just basic nlp projects for practice
+basic nlp projects just for practice
