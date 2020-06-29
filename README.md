@@ -14,6 +14,3 @@ Basic Natural Language processing projects
 6.
 7.
 .
-..
-...
-....
